@@ -20,6 +20,7 @@ func bruteforce(word string, limit int) {
 
 }
 
+
 func main() {
   word := ""
   bruteforce(word, 5)

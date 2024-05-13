@@ -1,4 +1,4 @@
-package main
+package types
 
 type ABStruct struct {
 	A int `json:"a"`
